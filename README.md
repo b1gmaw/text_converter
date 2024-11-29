@@ -1,2 +1,2 @@
 # text_converter
-Text converter
+It converts text
